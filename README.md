@@ -18,11 +18,11 @@ _Thanks to the course "React Basics" by [Treehouse](https://teamtreehouse.com/) 
 ## Setup/Installation Requirements
 
 * _Clone this repository_
-* _A folder titled "Scoreboard" will appear._
+* _A folder titled "scoreboard-v1" will appear._
 * _This project uses CDN linkes to React_
 * _Launch a local development server to run this project_
 * _I used [Live Server VS Code extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-) 
+)._ 
 
 ## Technologies Used
 
